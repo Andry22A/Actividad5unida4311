@@ -76,9 +76,9 @@ namespace Proyecto_1_Sistema_de__Manejo_de_un_almacen
 
         private void exportarDatosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // Aquí puedes agregar el código para exportar la lista a CSV.
-            // Por ahora, solo mostramos un mensaje.
-            MessageBox.Show("Función Exportar Datos aún no implementada.", "Exportar", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            FrmExportarDatos frm = new FrmExportarDatos();
+            frm.MdiParent = this; // lo abre como hijo
+            frm.Show();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)

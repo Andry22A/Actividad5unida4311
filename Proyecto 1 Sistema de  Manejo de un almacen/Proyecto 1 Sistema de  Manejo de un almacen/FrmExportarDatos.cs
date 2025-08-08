@@ -92,7 +92,12 @@ namespace Proyecto_1_Sistema_de__Manejo_de_un_almacen
         private void FrmExportarDatos_Load(object sender, EventArgs e)
         {
             btnExportar.Enabled = false;
-            txtRutaArchivo.Text = "";
+            
+        }
+
+        private void lblRutaArchivo_Click(object sender, EventArgs e)
+        {
+
         }
     }
 

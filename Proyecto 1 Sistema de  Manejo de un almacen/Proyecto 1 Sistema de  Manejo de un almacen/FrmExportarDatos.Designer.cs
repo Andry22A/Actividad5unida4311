@@ -38,6 +38,7 @@
             this.lblRutaArchivo.Size = new System.Drawing.Size(191, 29);
             this.lblRutaArchivo.TabIndex = 0;
             this.lblRutaArchivo.Text = "Ruta del archivo:";
+            this.lblRutaArchivo.Click += new System.EventHandler(this.lblRutaArchivo_Click);
             // 
             // txtRutaArchivo
             // 
