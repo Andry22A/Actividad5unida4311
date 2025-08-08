@@ -1,0 +1,557 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|c:\\users\\andry de la rosa\\documents\\github\\actividad5unida4311\\proyecto 1 sistema de  manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmsalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmsalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmexportardatos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Proyecto 1 Sistema de  Manejo de un almacen||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmactualizar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmactualizar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmenuprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmmostrarproductos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmeliminarproducto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmagregarproducto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmsalir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmsalir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmsalir.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5BA89D13-24AE-4B36-82A4-40833DE52FCA}|Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmsalir.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\proyecto 1 sistema de  manejo de un almacen\\frmactualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proyecto 1 sistema de  manejo de un almacen\\frmactualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T23:13:45.065Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmActualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:26:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:40:18.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEliminarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:47:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmExportarDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:47:40.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:39:47.24Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMostrarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:41:21.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSalir.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:57:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmActualizar.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:03:33.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmExportarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:12:42.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmExportarDatos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T23:12:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmExportarDatos.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmExportarDatos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-07T00:51:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Productos.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\Productos.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Productos.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:13:06.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMostrarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:06:23.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Programs.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\Programs.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Programs.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\Programs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:51:38.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:02:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmMostrarProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T22:47:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Almacen.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\Almacen.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Almacen.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\Almacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:51:26.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Proyecto 1 Sistema de  Manejo de un almacen",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-06T22:33:20.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Datos.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\Datos.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\Datos.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\Datos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:56:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmActualizar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizar.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:51:30.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwHQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:42:31.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmAgregarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv7EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:53:11.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmEliminarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwDoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:32:43.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmMenuPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMenuPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-04T17:42:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmMostrarProductos.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmMostrarProductos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-29T22:47:13.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmEliminarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:25:24.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmEliminarProducto.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmEliminarProducto.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-04T23:57:56.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmActualizarProducto.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-01T22:52:18.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmAgregarProducto.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmAgregarProducto.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-26T17:58:45.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\App.config",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\App.config",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\App.config",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T21:40:34.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmActualizarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmActualizarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:47:16.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmSalir.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.Designer.cs",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T22:46:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmSalir.resx",
+              "DocumentMoniker": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.resx",
+              "RelativeDocumentMoniker": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.resx",
+              "ToolTip": "C:\\Users\\Andry De La Rosa\\Documents\\GitHub\\Actividad5unida4311\\Proyecto 1 Sistema de  Manejo de un almacen\\Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.resx",
+              "RelativeToolTip": "Proyecto 1 Sistema de  Manejo de un almacen\\FrmSalir.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-29T22:47:02.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
